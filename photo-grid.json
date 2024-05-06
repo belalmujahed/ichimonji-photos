@@ -1,28 +1,27 @@
 {
   "admin": {
-    "title": "Photo Grid - Admin Demo"
+    "title": "Ichimonji Photos - Admin"
   },
   "app": {
     "allowIndexing": "true",
     "basePathName": "",
-    "domain": "https://photo-grid-demo.netlify.app",
+    "domain": "https://serene-marshmallow-0adac2.netlify.app/",
     "port": "3333",
     "previewPathName": "photo"
   },
   "author": {
     "name": "John Doe",
     "links": {
-      "github": "https://github.com/kwickramasekara/photo-grid",
-      "app": "https://photo-grid-demo.netlify.app/"
+      "instagram": "https://www.instagram.com/ichimonji.photos/",
     }
   },
   "metadata": {
-    "description": "Photography Portfolio of John Doe.",
+    "description": "Ichimonji Photos Portfolio",
     "language": "en",
-    "title": "Photo Grid"
+    "title": "Ichimonji Photos"
   },
   "ui": {
-    "allowDownload": "true",
+    "allowDownload": "false",
     "colorPreference": "auto",
     "displayOrder": "desc",
     "gridGap": "0.25",
